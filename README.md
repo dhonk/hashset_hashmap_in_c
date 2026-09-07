@@ -1,5 +1,7 @@
 # Hashset and Hashmap in C!
 
+### Watch me code the whole thing here -> [YouTube](https://youtu.be/g8FT3K14Zow)
+
 ## Hashset
 Implement a Hashset 
 
